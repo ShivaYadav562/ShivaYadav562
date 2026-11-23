@@ -1,176 +1,130 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Shiva%20Yadav&fontSize=42&fontColor=ffffff"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shiva Yadav</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Shiva%20Yadav&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Shiva Yadav header" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Java+Developer;Backend+Developer;DSA+Enthusiast;Open+to+Internships"/>
-</p>
+# Hi 👋, I'm Shiva Yadav
 
-<h3 align="center">
-🚀 Full Stack MERN Developer | Java Developer | Backend Enthusiast
-</h3>
+### Full Stack MERN Developer | Java Developer | Backend & AI Enthusiast
 
-<p align="center">
-I enjoy building full-stack web applications, solving DSA problems in Java, and learning backend technologies to become a Software Development Engineer.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Solving+DSA+Problems+in+Java;Exploring+Backend+Engineering;Building+AI-Powered+Projects" alt="Typing animation" />
+
+<a href="https://www.linkedin.com/in/shiva-yadav-bb793332b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shiva377373@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/Shiva_yadav_1717/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Full Stack MERN Developer
-- ☕ Java Programmer
-- 📚 Currently learning Backend Development & System Design
-- 🧩 Solving Data Structures & Algorithms in Java
-- 🎯 Goal: Software Development Engineer (SDE)
+I'm a B.Tech Computer Science student passionate about building practical applications, solving DSA problems in Java, and exploring backend and AI engineering.
 
----
+- 🎓 B.Tech Computer Science student
+- 💻 Building applications using the **MERN stack**
+- ☕ Practicing **Data Structures & Algorithms in Java**
+- ⚙️ Exploring **backend engineering, REST APIs, authentication, and real-time systems**
+- 🤖 Learning to integrate **AI-powered features** into web applications
+- 🎯 Goal: Become a **Software Development Engineer (SDE)**
 
-# 🚀 Current Focus
+## 🚀 Currently Working On
 
-- 📌 Building Production Ready Full Stack Applications
-- 📌 Backend Development (Node.js & Express.js)
-- 📌 MongoDB & REST APIs
-- 📌 Socket.IO & Real-Time Systems
-- 📌 DSA in Java
+- **Real-Time Collaborative Code Editor** with shared rooms and Socket.IO
+- **AI Tutor (planned)** for code explanation, debugging, DSA hints, and interview preparation
+- Improving backend development and system design fundamentals
+- Practicing problem solving with Java
 
----
+## 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
+**Languages**
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Java JavaScript Python HTML CSS" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
-</p>
+**Frontend**
 
-### ⚛️ Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React Vite Tailwind CSS" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
+**Backend & Database**
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+**Tools & Platforms**
 
-### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git GitHub VS Code Postman Vercel" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
+## 🌟 Featured Projects
 
-### 🛠️ Tools
+### 💻 Real-Time Collaborative Code Editor
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
+A full-stack collaborative coding workspace where users can join shared rooms, edit code together, and communicate in real time.
 
----
+**Tech:** React · Node.js · Express.js · MongoDB · Socket.IO · Monaco Editor
 
-# 📊 GitHub Statistics
+**Features:**
+- JWT-based authentication
+- Room-based collaboration
+- Real-time code synchronization
+- Live chat and shared coding workspace
+- MongoDB integration
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivaYadav562&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+**Coming soon:** AI Tutor, code explanations, debugging assistance, learning streak tracking, and richer dashboard analytics. These enhancements are planned/in progress, not yet presented as completed features.
 
-<img src="https://streak-stats.demolab.com?user=ShivaYadav562&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ShivaYadav562/updated-collabe-editor)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel)](https://collab-editor-client.vercel.app)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaYadav562&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 📈 Zerodha Trading Platform Clone
 
----
+A full-stack trading platform clone featuring a trading dashboard, holdings, positions, orders, and a watchlist interface.
 
-# 🚀 Featured Projects
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ShivaYadav562/Zerodha)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel)](https://zerodha-ten-taupe.vercel.app)
 
-## 💻 Real-Time Collaborative Code Editor
+### 🤖 AI Resume Parser
 
-A real-time collaborative coding platform built using the MERN Stack and Socket.IO.
+An AI-oriented Python project focused on extracting structured information from resume text and working with JSON-based model responses.
 
-### Features
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ShivaYadav562/AI-Resume-Parser)
 
-- 🔐 JWT Authentication
-- 👥 Room-Based Collaboration
-- 💻 Real-Time Code Synchronization
-- 💬 Live Chat
-- 🌐 Monaco Code Editor
-- 💾 MongoDB Integration
+## 📊 GitHub Statistics
 
-**Repository**
+<div align="center">
 
-https://github.com/ShivaYadav562/-collab-editor
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivaYadav562&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="165" src="https://streak-stats.demolab.com?user=ShivaYadav562&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-**Live Demo**
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaYadav562&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-https://collab-editor-client.vercel.app
+</div>
 
----
+## 📈 Contribution Activity
 
-## 📈 Zerodha Trading Platform Clone
+<div align="center">
 
-A full-stack trading platform inspired by Zerodha.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaYadav562&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
-### Features
+</div>
 
-- 🔐 Authentication
-- 📊 Trading Dashboard
-- 📈 Holdings
-- 📉 Positions
-- 📋 Orders
-- ⭐ Watchlist
+## 🏆 GitHub Trophies
 
-**Live Demo**
+<div align="center">
 
-https://zerodha-ten-taupe.vercel.app
+<img src="https://github-profile-trophy.vercel.app/?username=ShivaYadav562&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+
+</div>
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shiva%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-yadav-bb793332b)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiva377373@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ShivaYadav562-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivaYadav562)
 
 ---
 
-# 📫 Connect With Me
+<div align="center">
 
-<p align="left">
+**“Code. Learn. Build. Repeat. Every day is one step closer to becoming an SDE.”** 🚀
 
-<a href="https://www.linkedin.com/in/shiva-yadav-bb793332b">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%" alt="Footer wave" />
 
-<a href="mailto:shiva377373@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
-
-- 💼 LinkedIn:
-  https://www.linkedin.com/in/shiva-yadav-bb793332b
-
-- 📧 Email:
-  shiva377373@gmail.com
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShivaYadav562&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShivaYadav562&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-# 💡 Developer Mindset
-
-> **"Code. Learn. Build. Repeat. Every day is one step closer to becoming an SDE." 🚀**
-
-
-
+</div>
 
